@@ -1,0 +1,2 @@
+
+writing to files in Ruby is simple.Writing to files in Ruby is simple

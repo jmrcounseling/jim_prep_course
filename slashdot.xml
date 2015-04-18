@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-05T21:34:12+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/05/212235/uspto-demands-eff-censor-its-comments-on-patentable-subject-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/04/05/1950258/slashdot-asks-what-will-you-or-your-kids-learn-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/05/1851227/kinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://apple.slashdot.org/story/15/04/05/1735238/swiss-launch-of-apple-watch-hit-by-patent-issue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/04/05/1610206/tiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/05/1447254/restart-of-large-hadron-collider-at-cern?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/05/0358244/powdered-alcohol-banned-in-six-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/04/05/045259/mono-4-released-first-version-to-adopt-microsoft-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/05/0534236/how-to-make-a-bitcoin-address-with-a-ti-89-calculator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/04/05/0522244/bioware-announces-open-source-orbit-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/05/0458256/after-anti-donation-executive-order-bitcoin-donations-for-snowden-jump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/05/0047221/a-robo-car-just-drove-across-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/04/04/2331249/forking-away-oneplus-introduces-android-based-oxygenos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/04/04/2234210/is-this-the-death-of-the-easter-egg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/04/2131235/w-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://yro.slashdot.org/story/15/04/05/212235/uspto-demands-eff-censor-its-comments-on-patentable-subject-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>USPTO Demands EFF Censor Its Comments On Patentable Subject Matter</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DCUsXyoEE9I/uspto-demands-eff-censor-its-comments-on-patentable-subject-matter</link>
+<description>An anonymous reader writes As you know, last year the Supreme Court made a very important ruling in the Alice v. CLS Bank case .. the USPTO apparently was offended at parts of the EFF's comment submission, claiming that it was an "improper protest." Protest or not, the EFF denies in strong terms that the original comments were improper.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=USPTO+Demands+EFF+Censor+Its+Comments+On+Patentable+Subject+Matter%3A+http%3A%2F%2Fbit.ly%2F19W3350"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F05%2F212235%2Fuspto-demands-eff-censor-its-comments-on-patentable-subject-matter%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/05/212235/uspto-demands-eff-censor-its-comments-on-patentable-subject-matter?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/05/212235/uspto-demands-eff-censor-its-comments-on-patentable-subject-matter?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7206341&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/DCUsXyoEE9I" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T21:02:00+00:00</dc:date>
+<dc:subject>eff</dc:subject>
+<slash:department>adversarial-justice-system</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>7</slash:comments>
+<slash:hit_parade>7,7,6,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/05/212235/uspto-demands-eff-censor-its-comments-on-patentable-subject-matter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/04/05/1950258/slashdot-asks-what-will-you-or-your-kids-learn-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Slashdot Asks: What Will You (Or Your Kids) Learn This Summer? </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/azfqQjduBdY/slashdot-asks-what-will-you-or-your-kids-learn-this-summer</link>
+<description>For those in the northern hemisphere, summer is rapidly approaching, especially for those with kids. Camps, educational programs, and other activities are enrolling now, in advance of the long summer vacation. (Particularly long for Americans!) Aside from conventional sleepaway options for kids, there are science and technology courses, space camps, survival adventures, and more. Whatever your age, and whether on your own or as part of a formal group, do you have any specific learning activities planned for the summer, whether as participant or parent? Are there summer education opportunities you'd like to recommend to others, or ones you'd rate as not worth the price? (Naming details helps, in this context -- which space camp? How much does it cost?)&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Slashdot+Asks%3A+What+Will+You+(Or+Your+Kids)+Learn+This+Summer%3F+%3A+http%3A%2F%2Fbit.ly%2F1DCoOVs"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F04%2F05%2F1950258%2Fslashdot-asks-what-will-you-or-your-kids-learn-this-summer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/04/05/1950258/slashdot-asks-what-will-you-or-your-kids-learn-this-summer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/04/05/1950258/slashdot-asks-what-will-you-or-your-kids-learn-this-summer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7206217&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/azfqQjduBdY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T19:49:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>shameless-plugs-are-welcome</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>21</slash:comments>
+<slash:hit_parade>21,19,11,8,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/04/05/1950258/slashdot-asks-what-will-you-or-your-kids-learn-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/05/1851227/kinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Kinect For Windows Is Dead; Long Live Kinect For Windows Via USB </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CchPNqnMWpM/kinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb</link>
+<description>puddingebola writes Microsoft has announced it will no longer manufacture Kinect for Windows. Only the Xbox One version will be available for purchase. Microsoft said it could not meet demand for the device, a strange claim for a company to make. The console version, though, will still work with Windows by way of a USB adapter, and as pointed out by this similar story at Gamespot, for about the same total price.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Kinect+For+Windows+Is+Dead%3B+Long+Live+Kinect+For+Windows+Via+USB+%3A+http%3A%2F%2Fbit.ly%2F1JbtMau"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F05%2F1851227%2Fkinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/05/1851227/kinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/05/1851227/kinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7206105&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/CchPNqnMWpM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T18:50:00+00:00</dc:date>
+<dc:subject>inputdev</dc:subject>
+<slash:department>sir-this-teapot-may-not-be-able-to-weather-the-tempest</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,21,12,11,5,2,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/05/1851227/kinect-for-windows-is-dead-long-live-kinect-for-windows-via-usb?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://apple.slashdot.org/story/15/04/05/1735238/swiss-launch-of-apple-watch-hit-by-patent-issue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Swiss Launch of Apple Watch Hit By Patent Issue</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/acVkYx-mgqY/swiss-launch-of-apple-watch-hit-by-patent-issue</link>
+<description>wabrandsma points out this Reuters story, according to which: Apple is not able to launch its new smartwatch in Switzerland until at least the end of this year because of an intellectual property rights issue, Swiss broadcaster RTS reported on its website. The U.S. tech giant cannot use the image of an apple nor the word 'apple' to launch its watch within Switzerland, the home of luxury watches, because of a patent from 1985, RTS reported, citing a document from the Swiss Federal Institute of Intellectual Property.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Swiss+Launch+of+Apple+Watch+Hit+By+Patent+Issue%3A+http%3A%2F%2Fbit.ly%2F1F1FfKZ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fapple.slashdot.org%2Fstory%2F15%2F04%2F05%2F1735238%2Fswiss-launch-of-apple-watch-hit-by-patent-issue%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://apple.slashdot.org/story/15/04/05/1735238/swiss-launch-of-apple-watch-hit-by-patent-issue?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/15/04/05/1735238/swiss-launch-of-apple-watch-hit-by-patent-issue?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7205951&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/acVkYx-mgqY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T17:30:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>called-dibs-too-late</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,57,38,36,10,5,1</slash:hit_parade>
+<feedburner:origLink>http://apple.slashdot.org/story/15/04/05/1735238/swiss-launch-of-apple-watch-hit-by-patent-issue?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/04/05/1610206/tiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tiny LIDAR Chip Could Add Cheap 3D Sensing to Cellphones and Tablets</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/h8qcIlZZOjM/tiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets</link>
+<description>There are expensive dedicated devices that do 3D scanning (like the high-end tablet in Google's Project Tango), and versatile but bulky add-ons, like the Sense from 3D Systems, but it's not a capability built into the typical cellphone or tablet. That could change, thanks to a microsensor being prototyped now (at low resolution) at CalTech.
+From The Verge's coverage:
+The tiny chip, called a nanophotonic coherent imager, uses a form of LIDAR (Light Detection And Ranging) technology to capture height, width, and depth information from each pixel. LIDAR, which shines a laser on the target and then analyzes the light waves that are reflected back to the sensor, are best known for their use in precision-guided missile systems and self-driving cars. 
+
+While LIDAR itself isn't new, [project lead Ali] Hajimiri explains that "by having an array of tiny LIDARs on our coherent imager, we can simultaneously image different parts of an object or a scene without the need for any mechanical movements within the imager." Each "pixel" on the new sensor can individually analyze the phase, frequency, and intensity of the reflected waves, producing a single piece of 3D data. The data from all of the pixels combined can produce a full 3D scan. In addition, the researchers' implementation allows for an incredibly tiny and low-cost scanner, all while maintaining accuracy. According to the researchers, the chip can produce scans that are within microns of the original.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tiny+LIDAR+Chip+Could+Add+Cheap+3D+Sensing+to+Cellphones+and+Tablets%3A+http%3A%2F%2Fbit.ly%2F1IgZcOZ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F04%2F05%2F1610206%2Ftiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/04/05/1610206/tiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/04/05/1610206/tiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7205741&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/h8qcIlZZOjM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T16:02:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>dig-your-shape-baby</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,38,19,16,3,1,0</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/04/05/1610206/tiny-lidar-chip-could-add-cheap-3d-sensing-to-cellphones-and-tablets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/05/1447254/restart-of-large-hadron-collider-at-cern?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Restart of Large Hadron Collider At CERN</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UcMlTjm184U/restart-of-large-hadron-collider-at-cern</link>
+<description>Taco Cowboy contributes this news from the BBC: After a two-year hiatus the LHC (Large Hadron Collider ) at CERN has been restarted. For the past two years an upgrade program was carried out for the LHC. Due to the upgrade, the LHC is enjoying a double dose of energy, as compared to its previous self before the upgrade. Particle beams have now travelled in both directions, inside parallel pipes, at a whisker below the speed of light.
+Actual collisions will not begin for at least another month. Currently the protons are being injected at a relatively low energy to begin with. But over the coming months, engineers hope to gradually increase the beams' energy to 13 trillion electronvolts: double what it was during the LHC's first operating run. The experiment teams have already detected 'splashes' of particles, which occur when stray protons hit one of the shutters used to keep the beam on-track. If this happens in part of the pipe near one of the experiments, the detectors can pick up some of the debris. ... Debris from the tiny but history-making smash-ups might contain new particles, or tell-tale gaps betraying the presence of dark matter or even hidden dimensions. But first we need collisions &amp;mdash; due in May at the earliest &amp;mdash; and then a steady torrent of data will make its way to physicists around the world, so that the massive analysis effort can begin."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Restart+of+Large+Hadron+Collider+At+CERN%3A+http%3A%2F%2Fbit.ly%2F1HCIRRh"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F05%2F1447254%2Frestart-of-large-hadron-collider-at-cern%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/05/1447254/restart-of-large-hadron-collider-at-cern?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/05/1447254/restart-of-large-hadron-collider-at-cern?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7205571&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/UcMlTjm184U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T14:48:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>all-rested-from-a-long-winter's-nap</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>41</slash:comments>
+<slash:hit_parade>41,36,20,17,6,4,3</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/05/1447254/restart-of-large-hadron-collider-at-cern?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/05/0358244/powdered-alcohol-banned-in-six-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Powdered Alcohol Banned In Six States</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IDSK_FzxXQ4/powdered-alcohol-banned-in-six-states</link>
+<description>HughPickens.com writes Rachel Abrams reports at the NYT that six states have passed legislation to ban Palcohol, a freeze-dried, powdered alcohol developed by Mark Phillips who he says was inspired by a love of hiking but a distaste for carrying bottles of adult beverages uphill. "When I hike, kayak, backpack or whatever, I like to have a drink when I reach my destination. And carrying liquid alcohol and mixers to make a margarita for instance was totally impractical," says Phillips, who hopes to have Palcohol on store shelves by the summer. One packet of Palcohol equals one shot with each packet weighing 1 ounce and turning into liquid when mixed with 6 ounces of water. Phillips has vigorously defended his product, called Palcohol, saying it is no more dangerous than the liquid version sold in liquor stores and plans to release five flavors: vodka, rum, cosmopolitan, powderita (which is like a margarita) and lemon drop. 
+
+Critics are concerned people may try to snort the powder or mix it with alcohol to make it even stronger or spike a drink. "It's very easy to put a couple packets into a glass and have super-concentrated alcohol," says Frank Lovecchio. Amy George, a spokeswoman for Mothers Against Drunk Driving, said MADD did not typically take a stand on the dangers of specific alcohol products, but MADD is concerned about the colorful or playful packaging of such products that can sometimes appeal to children. Phillips dismisses concerns saying that they don't make sense if you think it through. "People unfortunately use alcohol irresponsibly. But I don't see any movement to ban liquid alcohol. You don't ban something because a few irresponsible people use it improperly," says Phillips. "They can snort black pepper. Do you ban black pepper?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Powdered+Alcohol+Banned+In+Six+States%3A+http%3A%2F%2Fbit.ly%2F1axUbUr"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F05%2F0358244%2Fpowdered-alcohol-banned-in-six-states%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/05/0358244/powdered-alcohol-banned-in-six-states?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/05/0358244/powdered-alcohol-banned-in-six-states?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204585&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/IDSK_FzxXQ4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T13:21:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>only-had-one-packet-officer</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>252</slash:comments>
+<slash:hit_parade>252,251,160,148,25,15,9</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/05/0358244/powdered-alcohol-banned-in-six-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/04/05/045259/mono-4-released-first-version-to-adopt-microsoft-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Mono 4 Released, First Version To Adopt Microsoft Code</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7yGj8PyepzU/mono-4-released-first-version-to-adopt-microsoft-code</link>
+<description>jones_supa writes: Version 4.0.0 of Mono, the FOSS implementation of the .NET Framework, has been released. This is the first release of Mono that replaces various components of Mono with code that was released by Microsoft under the MIT license. Microsoft itself is working towards .NET Core: a redistributable and re-imagined version of .NET, which has two code drops: CoreFX and CoreCLR. Mono at this point continues to provide an API that tracks the .NET desktop/server version. This means that most of the Mono code that has been integrated from Microsoft comes from the ReferenceSource code drop. Mono's C# compiler now also defaults to C# 6.0.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Mono+4+Released%2C+First+Version+To+Adopt+Microsoft+Code%3A+http%3A%2F%2Fbit.ly%2F19UyM6H"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F04%2F05%2F045259%2Fmono-4-released-first-version-to-adopt-microsoft-code%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/04/05/045259/mono-4-released-first-version-to-adopt-microsoft-code?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/04/05/045259/mono-4-released-first-version-to-adopt-microsoft-code?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204601&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/7yGj8PyepzU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T12:28:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>licenses-mean-things</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>141</slash:comments>
+<slash:hit_parade>141,139,86,72,21,6,1</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/04/05/045259/mono-4-released-first-version-to-adopt-microsoft-code?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/05/0534236/how-to-make-a-bitcoin-address-with-a-ti-89-calculator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How To Make a Bitcoin Address With a TI-89 Calculator</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/23dd692f2NA/how-to-make-a-bitcoin-address-with-a-ti-89-calculator</link>
+<description>sarahnaomi writes: The power of Bitcoin is giving your dusty old TI-89 calculator a second chance of being useful. Matt Whitlock, who helped make one of the world's first Bitcoin ATMs, is at it again. In a video posted on to Vimeo, he showed how using the calculator once only used for high school geometry and a 12-sided die makes a secure address for your Bitcoin account. The video self-explanatory. Load up your calculator with the code, roll it 72 times and enter the number rolled into it. After that, the calculator pumps out a private key and address.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+To+Make+a+Bitcoin+Address+With+a+TI-89+Calculator%3A+http%3A%2F%2Fbit.ly%2F1NSp2Jp"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F05%2F0534236%2Fhow-to-make-a-bitcoin-address-with-a-ti-89-calculator%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/05/0534236/how-to-make-a-bitcoin-address-with-a-ti-89-calculator?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/05/0534236/how-to-make-a-bitcoin-address-with-a-ti-89-calculator?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204719&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/23dd692f2NA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T10:23:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>next-week-how-to-make-a-castle-out-of-toothpicks</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,46,28,26,8,4,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/05/0534236/how-to-make-a-bitcoin-address-with-a-ti-89-calculator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/04/05/0522244/bioware-announces-open-source-orbit-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>BioWare Announces Open-Source Orbit Project</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vddFXXhjU5U/bioware-announces-open-source-orbit-project</link>
+<description>An anonymous reader writes BioWare, part of EA Games, have announced Orbit, their first open-source project. Orbit is a Java based framework for building distributed online services including a virtual actors system (based on Microsoft's Orleans project) and a lightweight inversion of control container. The announcement says, in part, Beginning today, we will be making Orbit open source on GitHub under a BSD license. We have been leveraging open source technology internally for quite some time, and we think the time is now right for us to give back and engage with the community in a more meaningful way.
+
+The last-generation of Orbit powered some of the key technology behind the Dragon Age Keep and Dragon Age: Inquisition. Our plans for the next-generation framework are even more ambitious.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=BioWare+Announces+Open-Source+Orbit+Project%3A+http%3A%2F%2Fbit.ly%2F1J8VSmG"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F04%2F05%2F0522244%2Fbioware-announces-open-source-orbit-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/04/05/0522244/bioware-announces-open-source-orbit-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/04/05/0522244/bioware-announces-open-source-orbit-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/vddFXXhjU5U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T07:40:00+00:00</dc:date>
+<dc:subject>java</dc:subject>
+<slash:department>just-add-stuff</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,48,28,22,6,4,1</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/04/05/0522244/bioware-announces-open-source-orbit-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/05/0458256/after-anti-donation-executive-order-bitcoin-donations-for-snowden-jump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>After Anti-Donation Executive Order, Bitcoin Donations For Snowden Jump</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LOmBG57T8Tg/after-anti-donation-executive-order-bitcoin-donations-for-snowden-jump</link>
+<description>ZDNet reports that after a recent executive order from President Obama "said to have made it illegal to donate to Edward Snowden's fund," anonymous donations to the fund have soared -- at least ones as anonymous as Bitcoin makes possible. From the article:
+
+A new executive order signed into law this week by the president has one online community up in arms, after its loose wording effectively ruled out donating to Edward Snowden and others.
+
+In a post on Reddit's Bitcoin subreddit, members pledged to donate to the whistleblower's relief fund, despite the wording of the new executive order suggesting that doing so was illegal.
+
+In the new executive order, signed into law on Wednesday, US President Barack Obama declared cyber-threats aimed at the US a "national emergency." The order threatens sanctions against those (including US residents) who engage in cyberattacks and espionage activities that threaten US interests at home and abroad.
+
+The wording of the order specifically addresses any person whose "property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States."
+
+Redditors were quick to assume (likely correctly) that this includes Edward Snowden, who for more than a year-and-a-half has lived in Russia, evading US justice.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=After+Anti-Donation+Executive+Order%2C+Bitcoin+Donations+For+Snowden+Jump%3A+http%3A%2F%2Fbit.ly%2F1C3HZR2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F05%2F0458256%2Fafter-anti-donation-executive-order-bitcoin-donations-for-snowden-jump%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/05/0458256/after-anti-donation-executive-order-bitcoin-donations-for-snowden-jump?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/05/0458256/after-anti-donation-executive-order-bitcoin-donations-for-snowden-jump?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204647&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/LOmBG57T8Tg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T04:55:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>evading-injustice-is-more-like-it</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>202</slash:comments>
+<slash:hit_parade>202,195,123,98,25,12,7</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/05/0458256/after-anti-donation-executive-order-bitcoin-donations-for-snowden-jump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/05/0047221/a-robo-car-just-drove-across-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Robo-Car Just Drove Across the Country</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ffMufIOgefo/a-robo-car-just-drove-across-the-country</link>
+<description>Press2ToContinue writes with this news from Wired: Nine days after leaving San Francisco, a blue car packed with tech from a company you've probably never heard of rolled into New York City after crossing 15 states and 3,400 miles to make history. The car did 99 percent of the driving on its own, yielding to the carbon-based life form behind the wheel only when it was time to leave the highway and hit city streets. This amazing feat, by the automotive supplier Delphi, underscores the great leaps this technology has taken in recent years, and just how close it is to becoming a part of our lives. Yes, many regulatory and legislative questions must be answered, and it remains to be seen whether consumers are ready to cede control of their cars, but the hardware is, without doubt, up to the task."
+
+That last one percent is a bear, though.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Robo-Car+Just+Drove+Across+the+Country%3A+http%3A%2F%2Fbit.ly%2F1DLsQJG"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F05%2F0047221%2Fa-robo-car-just-drove-across-the-country%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/05/0047221/a-robo-car-just-drove-across-the-country?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/05/0047221/a-robo-car-just-drove-across-the-country?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204435&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/ffMufIOgefo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-05T01:49:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>road-trip-redefined</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>186</slash:comments>
+<slash:hit_parade>186,183,127,113,19,7,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/05/0047221/a-robo-car-just-drove-across-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/04/04/2331249/forking-away-oneplus-introduces-android-based-oxygenos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Forking Away: OnePlus Introduces Android-Based OxygenOS</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2XUK_jKpkmE/forking-away-oneplus-introduces-android-based-oxygenos</link>
+<description>The Verge reports that phone maker OnePlus has introduced its own OS, an Android fork called OxygenOS.
+
+OxygenOS was developed in-house by OnePlus, though at this point it is merely a modest refresh of Android 5.0 Lollipop. In a blog post, the company explains that it took a "back to basics" approach with the software, adding, "We place things like performance and battery life over gimmicks and bloated features." ... The company says its goal with OxygenOS "is to provide faster, more meaningful updates and a better-integrated range of services for every OnePlus user." What it doesn't say is that the software also gives it a way to reduce its dependence on Cyanogen. The two companies have had strained relations since Cyanogen signed an exclusive deal with Indian phone maker Micromax just before OnePlus' planned launch in the subcontinent. It's expected that OxygenOS will eventually be the default on future devices like the OnePlus Two, but, for now, you'll have to install it yourself over Cyanogen if you want it. You can find instructions on OnePlus' website.
+
+(Also at TechCrunch.)&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Forking+Away%3A+OnePlus+Introduces+Android-Based+OxygenOS%3A+http%3A%2F%2Fbit.ly%2F1CpExQv"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F04%2F04%2F2331249%2Fforking-away-oneplus-introduces-android-based-oxygenos%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/04/04/2331249/forking-away-oneplus-introduces-android-based-oxygenos?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/04/04/2331249/forking-away-oneplus-introduces-android-based-oxygenos?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204387&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/2XUK_jKpkmE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-04T23:31:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>camel-caps-galore</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,31,14,10,4,2,1</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/04/04/2331249/forking-away-oneplus-introduces-android-based-oxygenos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/04/04/2234210/is-this-the-death-of-the-easter-egg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Is This the Death of the Easter Egg?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Hg73AkOC7qc/is-this-the-death-of-the-easter-egg</link>
+<description>An anonymous reader writes: The BBC reports that more and more companies are cracking down on the practice of hiding harmless snippets of code in their products. Known as "Easter eggs," they can be anything from the names of the developers, to pictures, to games like pinball, to a flight simulator. Is this simply professionalism, or is it stifling programmers' quirky, playful side? (Have you created any Easter eggs yourself? If so, what did they do?)&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Is+This+the+Death+of+the+Easter+Egg%3F%3A+http%3A%2F%2Fbit.ly%2F1avYvnd"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F04%2F04%2F2234210%2Fis-this-the-death-of-the-easter-egg%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/04/04/2234210/is-this-the-death-of-the-easter-egg?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/04/04/2234210/is-this-the-death-of-the-easter-egg?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204317&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Hg73AkOC7qc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-04T22:33:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>roland-hedley-on-the-case-again</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>252</slash:comments>
+<slash:hit_parade>252,252,170,152,25,12,10</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/04/04/2234210/is-this-the-death-of-the-easter-egg?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/04/2131235/w-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>W. Virginia Bans Direct Tesla Sales, With Urging of Car-Dealer Senate President</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xFZ6_IVIbC4/w-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president</link>
+<description>Ars Technica reports that another state has buckled to the auto dealership lobby, though with an interesting twist:
+
+West Virginia became at least the fifth state to ban the direct-sales approach practiced by Tesla Motors following Friday's signature by Gov. Earl Ray Tomblin. ... The bill was championed by West Virginia's Senate president, who is an auto dealer in his home state and Kentucky. ... The legislation says a vehicle maker may not &amp;ldquo;act in the capacity of a new motor vehicle dealer&amp;rdquo; or &amp;ldquo;operate a dealership, including, but not limited to, displaying a motor vehicle intended to facilitate the sale of new motor vehicles other than through franchised dealers, unless the display is part of an automobile trade show that more than two automobile manufacturers participate in.&amp;rdquo; ... The Palo Alto, California-based electric-vehicle company operates so-called "galleries" in Texas, Arizona, and Maryland because the company's sales practices are barred there, too. Customers can see Tesla cars in these galleries, but they may not order vehicles, discuss prices or take test drives."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=W.+Virginia+Bans+Direct+Tesla+Sales%2C+With+Urging+of+Car-Dealer+Senate+President%3A+http%3A%2F%2Fbit.ly%2F1yM4TvM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F04%2F2131235%2Fw-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/04/2131235/w-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/04/2131235/w-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7204207&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/xFZ6_IVIbC4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-04-04T21:31:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>I'll-cui-bono-you</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>182</slash:comments>
+<slash:hit_parade>182,180,114,96,9,6,1</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/04/2131235/w-virginia-bans-direct-tesla-sales-with-urging-of-car-dealer-senate-president?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
